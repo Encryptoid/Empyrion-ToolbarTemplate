@@ -2,7 +2,7 @@
 
 This mod allows you to save a template of your toolbar, and then load that template from items in your inventory. (Most useful when you die and pick up your stuff)
 
-The "entry point" for the is ToolbarTemplate.cs
+The "entry point" for the code is ToolbarTemplate.cs
 
 The following commands are made available, to be typed in the Server tab:
 
